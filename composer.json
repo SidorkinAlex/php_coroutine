@@ -1,0 +1,14 @@
+{
+    "name": "sidorkinalex/php_coroutine",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Sidorkin",
+            "email": "sid88alex@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
