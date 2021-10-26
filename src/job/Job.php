@@ -1,6 +1,6 @@
 <?php
 
-namespace SidorkinAlex\PhpCoroutine\job;
+namespace SidorkinAlex\PhpCoroutine\Job;
 class Job implements JobInterface
 {
 

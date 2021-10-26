@@ -1,7 +1,7 @@
 <?php
 
 
-namespace SidorkinAlex\PhpCoroutine\storage;
+namespace SidorkinAlex\PhpCoroutine\Storage;
 
 
 interface StorageInterface

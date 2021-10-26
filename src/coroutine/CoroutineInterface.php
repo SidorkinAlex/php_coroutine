@@ -1,8 +1,6 @@
 <?php
 
-
-namespace SidorkinAlex\PhpCoroutine;
-
+namespace SidorkinAlex\PhpCoroutine\Coroutine;
 
 use SidorkinAlex\PhpCoroutine\Job\JobInterface;
 

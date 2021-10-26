@@ -4,21 +4,9 @@ namespace SidorkinAlex\PhpCoroutine;
 
 use SidorkinAlex\PhpCoroutine\Job\JobInterface;
 
-class Coroutine implements CoroutineInterface
+class CoroutineFactory
 {
-    protected const COROUTINE_LIST_NAME="main_coroutine";
-    public function __construct()
-    {
-    }
-
-    public function add(JobInterface $job): void
-    {
+    public static function newCoroutine(){
 
     }
-
-    public static function exec() {
-
-    }
-
-
 }
