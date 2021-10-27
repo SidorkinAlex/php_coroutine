@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "opis/closure": "4.x-dev"
+    },
     "autoload": {
         "psr-4": {
             "SidorkinAlex\\PhpCoroutine\\": "src"
